@@ -1,0 +1,30 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Configuration
+src/config/database.php
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Cache
+cache/
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/
+temp/
